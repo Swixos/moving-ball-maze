@@ -12,7 +12,6 @@ Le projet a été réalisé dans le cadre d’un TP de physique et de contrôle 
 - Respawn automatique de la balle en cas de chute ou de mort
 - Détection de la victoire si la balle atteint le point final
 - Utilisation de prefabs pour tous les éléments de jeu
-- Interface de victoire + score (bonus)
 
 ---
 
