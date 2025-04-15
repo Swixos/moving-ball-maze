@@ -38,7 +38,7 @@ Le projet a été réalisé dans le cadre d’un TP de physique et de contrôle 
 ## ▶️ Lancer le projet
 
 ```bash
-git clone https://github.com/<ton-user>/moving-ball-maze.git
+git clone https://github.com/Swixos/moving-ball-maze.git
 ```
 
 - Ouvrir le projet dans Unity Hub
